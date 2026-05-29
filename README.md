@@ -84,12 +84,6 @@ I enjoy working with:
 
 If you are building something ambitious and want a strong technical collaborator, I am open to connecting.
 
-## GitHub Insights
-
-![Erick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=biojoel21&show_icons=true&hide_border=true&theme=default&count_private=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biojoel21&layout=compact&hide_border=true&theme=default&cache_seconds=1800&langs_count=8)
-
 ## Most-Used Technologies
 
 Based on the projects and environments I work with most often:
