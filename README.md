@@ -1,4 +1,4 @@
-# Joel | Software Engineer & Technical Specialist
+# Erick Barbosa | Software Engineer & Technical Specialist
 
 I build reliable software, solve hard technical problems, and enjoy collaborating with teams that ship meaningful products.
 
